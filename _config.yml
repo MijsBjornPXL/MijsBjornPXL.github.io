@@ -74,17 +74,17 @@ content:
       - layout: left
         title: Remote Platform for PBX
         # caption: 
-        sub_title: Update old PBX-mgmnt program to a new more efficient method.
+        sub_title: Associated with Proximus
         quote: >
-          Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.
+          "Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.""
         description: | # this will include new lines to allow paragraphs
           Update old PBX-mgmnt program to a new more efficient method.
       - layout: left
         title: Mivo430 SMBC
         # caption: 
-        sub_title: Update old PBX-mgmnt program to a new more efficient method.
+        sub_title: Associated with Proximus
         quote: >
-          Introduce & train technicians/remote helpdesk employees for the upcoming Mivo400 pbx 
+          "Introduce & train technicians/remote helpdesk employees for the upcoming Mivo400 pbx"
         description: | # this will include new lines to allow paragraphs
           Develop guidelines, Testing CPE & Follow up first installs
 
