@@ -105,14 +105,13 @@ content:
     content:
       - layout: right
         title: Hard skills
-        caption: 2006-2008
-        #sub_title: Electronica ICT
+        # caption: 2006-2008
+        sub_title: Associated with Proximus
         quote: >
-          Dropped out in second year.        
-        description: |
-          - Network Management: Expertise in managing customer networks, including LAN, WAN, SD-WAN, and VoIP technologies.
-
-
+          "Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.""
+        description: | # this will include new lines to allow paragraphs
+          Update old PBX-mgmnt program to a new more efficient method.
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
