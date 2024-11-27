@@ -69,6 +69,16 @@ content:
           I managed customer networks, designed technical solutions, and resolved complex ICT issues. My focus was on developing and delivering training materials, supporting over 300 users, and implementing technologies such as VMware, Cisco, and Windows Server. Additionally, I wrote scripts and created interactive learning tools to enhance technical knowledge.
         quote: >
           "Combining technical expertise with effective training to manage networks, resolve complex ICT challenges, and foster the development of internal and external teams."
+      - layout: right
+        title: Proximus
+        link: proximus.be
+        # link_text: boringcompany.com
+        sub_title: Technical Expert & Trainer
+        caption: Sep 2017 - Feb 2018
+        description: | # this will include new lines to allow paragraphs
+          As a Team Coach for the PRF Market, I focused on teaching key skills and techniques to improve team performance. I monitored progress, identified strengths and weaknesses, and provided strategic advice on IT and VoIP issues. Additionally, I developed targeted training programs to enhance team effectiveness.
+        quote: >
+          "Empowering teams by teaching essential skills, enhancing performance, and providing strategic guidance to drive success in the PRF market."
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
