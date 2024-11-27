@@ -71,24 +71,6 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Remote Platform for PBX
-        # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            #icon: fab fa-github
-            #url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Update old PBX-mgmnt program to a new more efficient method.
-        description: | # this will include new lines to allow paragraphs
-          Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.
-
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Remote Platform for PBX
         # caption: 
@@ -97,7 +79,14 @@ content:
           Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.
         description: | # this will include new lines to allow paragraphs
           Update old PBX-mgmnt program to a new more efficient method.
-
+      - layout: right
+        title: Remote Platform for PBX
+        # caption: 
+        sub_title: Update old PBX-mgmnt program to a new more efficient method.
+        quote: >
+          Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.
+        description: | # this will include new lines to allow paragraphs
+          Update old PBX-mgmnt program to a new more efficient method.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
