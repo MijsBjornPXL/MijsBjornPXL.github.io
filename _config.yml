@@ -72,7 +72,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Remote Platform for PBX
+        title: Remote Platform PABX
         # caption: 
         sub_title: Associated with Proximus
         quote: >
