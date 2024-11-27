@@ -103,18 +103,24 @@ content:
       - layout: right
         title: Hard skills
         #sub_title: Electronica ICT
-        description: |
+        description: |  
           - Network Management: Expertise in managing networks, including LAN, WAN, SD-WAN, and VoIP.
 
           - Troubleshooting and Problem Solving: Ability to resolve complex ICT issues, including system optimization and debugging for both field and remote technicians.
+          
           - CPE Configuration: Experience in configuring and troubleshooting CPE devices (Cisco, Huawei, OneAccess, Technicolor, PBX systems).
+          
           - Server Management: Proficient in maintaining Windows Server environments (DHCP, RDP, IP-Virtualization, AD).
+          
           - Cloud Networking (GCP, AWS, etc.): Experience with cloud network infrastructures.
+          
           - Virtualization: Experience with VMware, Hypervisor, vSphere, and KVM for creating and managing virtual environments.
+          
           - Training Development: Experience in developing and presenting training programs, webinars, and workshops.
+          
           - E-learning Creation: Expertise in creating interactive e-learnings using tools (Flowsparks, Adobe Photoshop...)
+          
           - Scripting & Automation: Knowledge of writing scripts in Visual Basic, VBScript, Bash, and Python for system automation and problem-solving.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
