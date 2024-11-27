@@ -59,7 +59,7 @@ content:
     content:
       - layout: top-middle
         title: Remote Platform for PBX
-        link: github.com/sproogen
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -107,7 +107,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/MijsBjornPXL.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
