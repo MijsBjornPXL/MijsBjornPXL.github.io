@@ -54,6 +54,20 @@ about_content: | # this will include new lines to allow paragraphs
  I am most skilled in: <mark>Networking</mark> and <mark>tasting wine</mark>
 
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Proximus
+        link: proximus.be
+        # link_text: boringcompany.com
+        sub_title: Technical Expert & Trainer
+        caption: Feb 2018 - Jun 2024
+        quote: >
+          Internationaal worden de activiteiten uitgevoerd door BICS, Telesign en Route Mobile. Proximus Accelerators, het ecosysteem van IT-partners (Be-Mobile, ClearMedia, Codit, Davinsi Labs en Telindus) begeleidt bedrijven bij hun digitale transformatie.
+        description: | # this will include new lines to allow paragraphs
+          Proximus Groep, voorheen bekend onder de naam Belgacom, is een leverancier van digitale diensten en communicatieoplossingen die actief is in België en op de internationale markten. In België biedt het bedrijf zijn belangrijkste producten en diensten aan met de merken Proximus, Scarlet en Mobile Vikings. De groep is ook actief in Luxemburg als Proximus Luxembourg SA, onder de merknamen Tango en Telindus Luxembourg; en in Nederland via Telindus Nederland.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -73,19 +87,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.
 
-  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Proximus
-        link: proximus.be
-        # link_text: boringcompany.com
-        sub_title: Technical Expert & Trainer
-        caption: Feb 2018 - Jun 2024
+        title: Remote Platform for PBX
+        # caption: 
+        sub_title: Update old PBX-mgmnt program to a new more efficient method.
         quote: >
-          Proximus Groep, voorheen bekend onder de naam Belgacom, is een leverancier van digitale diensten en communicatieoplossingen die actief is in België en op de internationale markten. In België biedt het bedrijf zijn belangrijkste producten en diensten aan met de merken Proximus, Scarlet en Mobile Vikings. De groep is ook actief in Luxemburg als Proximus Luxembourg SA, onder de merknamen Tango en Telindus Luxembourg; en in Nederland via Telindus Nederland.
+          Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.
         description: | # this will include new lines to allow paragraphs
-          Internationaal worden de activiteiten uitgevoerd door BICS, Telesign en Route Mobile. Proximus Accelerators, het ecosysteem van IT-partners (Be-Mobile, ClearMedia, Codit, Davinsi Labs en Telindus) begeleidt bedrijven bij hun digitale transformatie.
+          Update old PBX-mgmnt program to a new more efficient method.
+
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
