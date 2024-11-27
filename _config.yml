@@ -71,7 +71,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Remote Platform for PBX
         # caption: 
         sub_title: Update old PBX-mgmnt program to a new more efficient method.
