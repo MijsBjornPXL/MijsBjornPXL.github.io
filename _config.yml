@@ -80,13 +80,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           Update old PBX-mgmnt program to a new more efficient method.
       - layout: right
-        title: Remote Platform for PBX
+        title: Mivo430 SMBC
         # caption: 
         sub_title: Update old PBX-mgmnt program to a new more efficient method.
         quote: >
-          Employees used an old VPN-connection for managing the install base for old PBX-devices. My company needed additional PC's/Laptops for making this connection. VPN was connected by a public ip address, this isn't allowed on our professional intranet connection. My goal was finding a solution so our company didn't need extra PC's/notebooks for managing these devices.
+          Introduce & train technicians/remote helpdesk employees for the upcoming Mivo400 pbx 
         description: | # this will include new lines to allow paragraphs
-          Update old PBX-mgmnt program to a new more efficient method.
+          Develop guidelines, Testing CPE & Follow up first installs
+      - layout: left
+        title: Mivo430 SMBC
+        # caption: 
+        sub_title: Update old PBX-mgmnt program to a new more efficient method.
+        quote: >
+          Introduce & train technicians/remote helpdesk employees for the upcoming Mivo400 pbx 
+        description: | # this will include new lines to allow paragraphs
+          Develop guidelines, Testing CPE & Follow up first installs
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,9 +115,6 @@ content:
       - Coding
       - Movies
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/MijsBjornPXL.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
