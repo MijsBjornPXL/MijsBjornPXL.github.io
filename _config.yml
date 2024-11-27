@@ -48,7 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+<<<<<<< HEAD
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+=======
+Met meer dan 15 jaar ervaring in de ICT-sector heb ik mijn carrière gewijd aan het beheren en optimaliseren van netwerken voor bedrijven, het oplossen van complexe ICT-uitdagingen, en het delen van mijn kennis via training en coaching.
+>>>>>>> 614171b0a3380100e46bd0b12a2aa44e3c2bc461
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
