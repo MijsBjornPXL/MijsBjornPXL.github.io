@@ -106,7 +106,7 @@ content:
       - layout: right
         title: Hard skills
         #sub_title: Electronica ICT
-        quote: >
+        description: |
           - Network Management: Expertise in managing customer networks, including LAN, WAN, SD-WAN, and VoIP technologies.
           - Troubleshooting and Problem Solving: Ability to resolve complex ICT issues, including system optimization and debugging for both field and remote technicians.
           - CPE Configuration: Experience in configuring and troubleshooting CPE devices (Cisco, Huawei, OneAccess, Technicolor, PBX systems such as F5000, Mitel, Alcatel).
