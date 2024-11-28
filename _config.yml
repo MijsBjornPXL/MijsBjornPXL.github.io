@@ -76,8 +76,19 @@ content:
           As a Team Coach for the PRF Market, I focused on teaching key skills and techniques to improve team performance. I monitored progress, identified strengths and weaknesses, and provided strategic advice on IT and VoIP issues. Additionally, I developed targeted training programs to enhance team effectiveness.
         quote: >
           "Empowering teams by teaching essential skills, enhancing performance, and providing strategic guidance to drive success in the PRF market."
+      - layout: right
+        title: Proximus
+        link: proximus.be
+        # link_text: boringcompany.com
+        sub_title: Network Engineer
+        caption: Jun 2011 - Sep 2017
+        description: | # this will include new lines to allow paragraphs
+          I was responsible for installing Explore, Fast Internet, and VoIP products using Cisco, Technicolor, and OneAccess routers. I gained expertise in ADSL, SDSL, VDSL2, and EFM technologies, and provided mobile access and backup solutions. My role included installing hotspots, access points, and managing installations at large events. Additionally, I installed PABX systems (Forum 300/500/700), IPBX, and PBX Cloud (Call Connect), and developed guidelines for new product installations.
+        quote: >
+          "Network Engineer with expertise in installing Explore, Fast Internet, and VoIP products, managing ADSL, VDSL2, and mobile access solutions, and overseeing large event setups and PABX installations."  
 
-  - title: Projects # Title for the section
+
+          - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
