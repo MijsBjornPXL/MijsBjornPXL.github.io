@@ -166,7 +166,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Flemish Catholic university of applied sciences until September 2012. KH Kempen was a member of the KU Leuven Association. In 2012, it merged with Lessius Antwerp and Lessius Mechelen to form Thomas More University of Applied Sciences.      - layout: right
       - layout: left
-         title: Provil
+        title: Provil
         caption: 1999 - 2006
         sub_title: Electronica ICT
         quote: >
