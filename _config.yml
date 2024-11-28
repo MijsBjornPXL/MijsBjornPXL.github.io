@@ -70,7 +70,7 @@ content:
         title: Proximus
         link: proximus.be
         # link_text: boringcompany.com
-        sub_title: Technical Expert & Trainer
+        sub_title: Team Coach - PRF Market
         caption: Sep 2017 - Feb 2018
         description: | # this will include new lines to allow paragraphs
           As a Team Coach for the PRF Market, I focused on teaching key skills and techniques to improve team performance. I monitored progress, identified strengths and weaknesses, and provided strategic advice on IT and VoIP issues. Additionally, I developed targeted training programs to enhance team effectiveness.
@@ -104,7 +104,7 @@ content:
         title: Hard skills
         #sub_title: Electronica ICT
         description: |
-        
+
           - Network Management: Expertise in managing networks, including LAN, WAN, SD-WAN, and VoIP.
 
           - Server Management: Proficient in maintaining Windows Server environments (DHCP, RDP, IP-Virtualization, AD).
@@ -125,7 +125,7 @@ content:
 
 
           ------------------------------------------------------------------
-
+          ------------------------------------------------------------------
       - layout: right
         title: Soft skills
         #sub_title: Electronica ICT
