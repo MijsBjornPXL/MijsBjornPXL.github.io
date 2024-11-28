@@ -87,7 +87,7 @@ content:
           "Network Engineer with expertise in installing Explore, Fast Internet, and VoIP products, managing ADSL, VDSL2, and mobile access solutions, and overseeing large event setups and PABX installations."  
 
 
-          - title: Projects # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
