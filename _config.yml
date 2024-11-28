@@ -126,7 +126,7 @@ content:
           -
 
           ------------------------------------------------------------------
-      - layout: right
+      - layout: left
         title: Soft skills
         #sub_title: Electronica ICT
         description: |  
