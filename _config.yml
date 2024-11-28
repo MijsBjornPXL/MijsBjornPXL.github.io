@@ -144,7 +144,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Thomas More - Geel
         caption: 2006-2008
         sub_title: Electronica ICT
