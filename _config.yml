@@ -173,9 +173,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Bachelor ICT, ICT and Telecommuncations
+        title: Thomas More - Geel
         caption: 2006-2008
-        sub_title: Electronica ICT
+        sub_title: Bachelor ICT, ICT and Telecommuncations
         quote: >
           "Dropped out in second year."
         description: | # this will include new lines to allow paragraphs
