@@ -88,7 +88,6 @@ content:
         quote: >
           "Network Engineer with expertise in installing Explore, Fast Internet, and VoIP products, managing ADSL, VDSL2, and mobile access solutions, and overseeing large event setups and PABX installations."  
 
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -164,11 +163,11 @@ content:
         quote: >
           "Cisco ICND1 and ICND2 are foundational courses that teach the skills needed to install, configure, and troubleshoot small to medium-sized networks. ICND1 covers basic networking concepts, IP addressing, and router/switch configuration, while ICND2 delves into advanced topics like routing protocols, VLANs, and network security. Both certifications are essential for those pursuing a career in network administration with Cisco systems."
       - layout: right
-        title: ECMS1 - Cisco Meraki Solutions
+        title: Cisco Meraki Solutions 1
         #caption: 1999 - 2006
         sub_title: Associated with Proximus
         quote: >
-          "Cisco ICND1 and ICND2 are foundational courses that teach the skills needed to install, configure, and troubleshoot small to medium-sized networks. ICND1 covers basic networking concepts, IP addressing, and router/switch configuration, while ICND2 delves into advanced topics like routing protocols, VLANs, and network security. Both certifications are essential for those pursuing a career in network administration with Cisco systems."
+          "deployment, management, and troubleshooting of Cisco Meraki cloud-managed networking solutions, including wireless, switching, security, and mobile device management. It is designed for professionals looking to manage and scale Meraki networks effectively."
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -189,6 +188,7 @@ content:
           "Provil is a warm school where respect, safety, and quality education are central, with a focus on a unique learning path for each student."
         description: | # this will include new lines to allow paragraphs
           Offering a wide range of general, technical, and vocational education. It focuses on respect, collaboration, and lifelong learning, with programs in STEM, sports, and technical fields. Provil also provides dual learning, combining education with practical experience in companies.  
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
