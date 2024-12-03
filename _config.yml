@@ -153,44 +153,10 @@ content:
           
           - Innovation-Driven: Continuously striving for improvements and embracing new technologies.
 
-  - title: Courses & certifications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: right
-        title: Cisco ICND1 & ICND2
-        #caption: 2006-2008
-        sub_title: Associated with Proximus
-        quote: >
-          "Cisco ICND1 and ICND2 are foundational courses that teach the skills needed to install, configure, and troubleshoot small to medium-sized networks. ICND1 covers basic networking concepts, IP addressing, and router/switch configuration, while ICND2 delves into advanced topics like routing protocols, VLANs, and network security. Both certifications are essential for those pursuing a career in network administration with Cisco systems."
-      - layout: right
-        title: Cisco Meraki Solutions
-        #caption: 1999 - 2006
-        sub_title: Associated with Proximus
-        quote: >
-          "ECMS1 covers the deployment, management, and troubleshooting of Cisco Meraki cloud-managed networking solutions, including wireless, switching, security, and mobile device management. It is designed for professionals looking to manage and scale Meraki networks effectively."
-      - layout: right
-        title: Introduction to Cyber Security
-        #caption: 1999 - 2006
-        sub_title: TryHackMe
-        quote: >
-          "'Introduction to Cyber Security' on TryHackMe is your gateway to the digital frontier. It's not just an introduction to the field, but an empowering experience that sparks curiosity and equips you with the foundational skills to defend the ever-evolving cyber world."
-      - layout: right
-        title: Pre Security
-        #caption: 1999 - 2006
-        sub_title: TryHackMe
-        quote: >
-          "Pre Security on TryHackMe is the stepping stone to mastering cybersecurity. It's where beginners get to explore the basics, build essential skills, and set the stage for a deeper understanding of how to secure the digital world."
-      - layout: right
-        title: Complete Beginner
-        #caption: 1999 - 2006
-        sub_title: TryHackMe
-        quote: >
-          "The Beginner course on TryHackMe is the first step in unlocking the world of cybersecurity. It's where curiosity meets hands-on learning, laying the groundwork for mastering the skills needed to navigate and protect the digital landscape."
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Thomas More - Geel
         caption: 2006-2008
         sub_title: Bachelor ICT, ICT and Telecommuncations
@@ -198,7 +164,7 @@ content:
           "Dropped out in second year."
         description: | # this will include new lines to allow paragraphs
           Flemish Catholic university of applied sciences until September 2012. KH Kempen was a member of the KU Leuven Association. In 2012, it merged with Lessius Antwerp and Lessius Mechelen to form Thomas More University of Applied Sciences.      - layout: right
-      - layout: left
+      - layout: right
         title: Provil
         caption: 1999 - 2006
         sub_title: Electronica ICT
@@ -206,6 +172,40 @@ content:
           "Provil is a warm school where respect, safety, and quality education are central, with a focus on a unique learning path for each student."
         description: | # this will include new lines to allow paragraphs
           Offering a wide range of general, technical, and vocational education. It focuses on respect, collaboration, and lifelong learning, with programs in STEM, sports, and technical fields. Provil also provides dual learning, combining education with practical experience in companies.  
+
+  - title: Courses & certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Cisco ICND1 & ICND2
+        #caption: 2006-2008
+        sub_title: Associated with Proximus
+        quote: >
+          "Cisco ICND1 and ICND2 are foundational courses that teach the skills needed to install, configure, and troubleshoot small to medium-sized networks. ICND1 covers basic networking concepts, IP addressing, and router/switch configuration, while ICND2 delves into advanced topics like routing protocols, VLANs, and network security. Both certifications are essential for those pursuing a career in network administration with Cisco systems."
+      - layout: left
+        title: Cisco Meraki Solutions
+        #caption: 1999 - 2006
+        sub_title: Associated with Proximus
+        quote: >
+          "ECMS1 covers the deployment, management, and troubleshooting of Cisco Meraki cloud-managed networking solutions, including wireless, switching, security, and mobile device management. It is designed for professionals looking to manage and scale Meraki networks effectively."
+      - layout: left
+        title: Introduction to Cyber Security
+        #caption: 1999 - 2006
+        sub_title: TryHackMe
+        quote: >
+          "'Introduction to Cyber Security' on TryHackMe is your gateway to the digital frontier. It's not just an introduction to the field, but an empowering experience that sparks curiosity and equips you with the foundational skills to defend the ever-evolving cyber world."
+      - layout: left
+        title: Pre Security
+        #caption: 1999 - 2006
+        sub_title: TryHackMe
+        quote: >
+          "Pre Security on TryHackMe is the stepping stone to mastering cybersecurity. It's where beginners get to explore the basics, build essential skills, and set the stage for a deeper understanding of how to secure the digital world."
+      - layout: left
+        title: Complete Beginner
+        #caption: 1999 - 2006
+        sub_title: TryHackMe
+        quote: >
+          "The Beginner course on TryHackMe is the first step in unlocking the world of cybersecurity. It's where curiosity meets hands-on learning, laying the groundwork for mastering the skills needed to navigate and protect the digital landscape."
 
   - title: A Little More About Me
     layout: text
