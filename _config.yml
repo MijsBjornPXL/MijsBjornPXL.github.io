@@ -182,6 +182,7 @@ content:
         sub_title: Associated with Proximus
         quote: >
           "Cisco ICND1 and ICND2 are foundational courses that teach the skills needed to install, configure, and troubleshoot small to medium-sized networks. ICND1 covers basic networking concepts, IP addressing, and router/switch configuration, while ICND2 delves into advanced topics like routing protocols, VLANs, and network security. Both certifications are essential for those pursuing a career in network administration with Cisco systems."
+          ------------------------------------------------------------------
       - layout: left
         title: Cisco Meraki Solutions
         #caption: 1999 - 2006
