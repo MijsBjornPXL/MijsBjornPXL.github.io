@@ -191,7 +191,6 @@ content:
         quote: >
           "ECMS1 covers the deployment, management, and troubleshooting of Cisco Meraki cloud-managed networking solutions, including wireless, switching, security, and mobile device management. It is designed for professionals looking to manage and scale Meraki networks effectively."
         description: |  
-        
           ------------------------------------------------------------------
       - layout: left
         title: Introduction to Cyber Security
@@ -200,7 +199,6 @@ content:
         quote: >
           "'Introduction to Cyber Security' on TryHackMe is your gateway to the digital frontier. It's not just an introduction to the field, but an empowering experience that sparks curiosity and equips you with the foundational skills to defend the ever-evolving cyber world."
         description: |  
-
           ------------------------------------------------------------------
       - layout: left
         title: Pre Security
@@ -209,7 +207,6 @@ content:
         quote: >
           "Pre Security on TryHackMe is the stepping stone to mastering cybersecurity. It's where beginners get to explore the basics, build essential skills, and set the stage for a deeper understanding of how to secure the digital world."
         description: |  
-
           ------------------------------------------------------------------
       - layout: left
         title: Complete Beginner
