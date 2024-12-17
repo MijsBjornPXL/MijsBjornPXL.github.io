@@ -27,9 +27,53 @@ linkedin_username: bjorn-mijs-5463a996
 # pinterest_username: jekyll
 youtube_username: BjornMijs
 # googleplus_username: +jekyll
+Search
+new feed updates notifications
+Home
+My Network
+Jobs
+2
+2 new messages notifications
+Messaging
+16
+16 new notifications
+Notifications
+Bjorn Mijs
+Me
+
+For Business
+Try Premium for €0
+Bjorn MijsStatus is online
+Bjorn Mijs
+ICT Expert & Trainer
+
+Licenses & certifications
+
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
+Search
+new feed updates notifications
+Home
+My Network
+Jobs
+2
+2 new messages notifications
+Messaging
+16
+16 new notifications
+Notifications
+Bjorn Mijs
+Me
+
+For Business
+Try Premium for €0
+Bjorn MijsStatus is online
+Bjorn Mijs
+ICT Expert & Trainer
+
+Licenses & certifications
+
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
@@ -190,6 +234,14 @@ content:
         sub_title: Associated with Proximus
         quote: >
           "ECMS1 covers the deployment, management, and troubleshooting of Cisco Meraki cloud-managed networking solutions, including wireless, switching, security, and mobile device management. It is designed for professionals looking to manage and scale Meraki networks effectively."
+        description: |  
+          ------------------------------------------------------------------
+      - layout: left
+        title: Jr Penetration Tester
+        #caption: 1999 - 2006
+        sub_title: TryHackMe
+        quote: >
+          "'Introduction to Cyber Security' on TryHackMe is your gateway to the digital frontier. It's not just an introduction to the field, but an empowering experience that sparks curiosity and equips you with the foundational skills to defend the ever-evolving cyber world."
         description: |  
           ------------------------------------------------------------------
       - layout: left
