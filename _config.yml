@@ -199,7 +199,7 @@ content:
         #caption: 1999 - 2006
         sub_title: TryHackMe
         quote: >
-          "'Introduction to Cyber Security' on TryHackMe is your gateway to the digital frontier. It's not just an introduction to the field, but an empowering experience that sparks curiosity and equips you with the foundational skills to defend the ever-evolving cyber world."
+          "The Jr Penetration Tester certification validates essential skills in ethical hacking, network security, and vulnerability assessment, providing a strong foundation for a cybersecurity career."
         description: |  
           ------------------------------------------------------------------
       - layout: left
@@ -207,7 +207,7 @@ content:
         #caption: 1999 - 2006
         sub_title: TryHackMe
         quote: >
-          "'Introduction to Cyber Security' on TryHackMe is your gateway to the digital frontier. It's not just an introduction to the field, but an empowering experience that sparks curiosity and equips you with the foundational skills to defend the ever-evolving cyber world."
+          "Introduction to Cyber Security' on TryHackMe is your gateway to the digital frontier. It's not just an introduction to the field, but an empowering experience that sparks curiosity and equips you with the foundational skills to defend the ever-evolving cyber world."
         description: |  
           ------------------------------------------------------------------
       - layout: left
