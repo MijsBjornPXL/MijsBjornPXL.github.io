@@ -195,6 +195,14 @@ content:
         description: |  
           ------------------------------------------------------------------
       - layout: left
+        title: CompTIA Pentest+
+        #caption: 1999 - 2006
+        sub_title: TryHackMe
+        quote: >
+          "CompTIA PenTest+ certifies your skills in ethical hacking, vulnerability management, and penetration testing, making you a standout in cybersecurity."
+        description: |  
+          ------------------------------------------------------------------          
+      - layout: left
         title: Jr Penetration Tester
         #caption: 1999 - 2006
         sub_title: TryHackMe
